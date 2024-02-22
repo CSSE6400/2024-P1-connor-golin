@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-connor-golin"
+version = "0.1.0"
+description = ""
+authors = ["connor-golin <connor.golin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
